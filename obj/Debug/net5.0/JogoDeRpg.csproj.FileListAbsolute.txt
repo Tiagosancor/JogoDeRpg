@@ -1,0 +1,16 @@
+D:\Projetos\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.exe
+D:\Projetos\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.deps.json
+D:\Projetos\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.runtimeconfig.json
+D:\Projetos\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.runtimeconfig.dev.json
+D:\Projetos\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.dll
+D:\Projetos\JogoDeRpg\bin\Debug\net5.0\ref\JogoDeRpg.dll
+D:\Projetos\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.pdb
+D:\Projetos\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.csproj.AssemblyReference.cache
+D:\Projetos\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.AssemblyInfoInputs.cache
+D:\Projetos\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.AssemblyInfo.cs
+D:\Projetos\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.csproj.CoreCompileInputs.cache
+D:\Projetos\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.dll
+D:\Projetos\JogoDeRpg\obj\Debug\net5.0\ref\JogoDeRpg.dll
+D:\Projetos\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.pdb
+D:\Projetos\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.genruntimeconfig.cache
